@@ -84,6 +84,30 @@ function App() {
             <div className="item">
                 <span>发动机号：engineno</span><RayrIcon type="engineno"/>
             </div>
+            <div className="item">
+                <span>后备箱：trunk</span><RayrIcon type="trunk"/>
+            </div>
+            <div className="item">
+                <span>注册：register</span><RayrIcon type="register"/>
+            </div>
+            <div className="item">
+                <span>充电：charging</span><RayrIcon type="charging"/>
+            </div>
+            <div className="item">
+                <span>维修：fix</span><RayrIcon type="fix"/>
+            </div>
+            <div className="item">
+                <span>调度：dispatch</span><RayrIcon type="dispatch"/>
+            </div>
+            <div className="item">
+                <span>清洁：clean</span><RayrIcon type="clean"/>
+            </div>
+            <div className="item">
+                <span>救援：rescue</span><RayrIcon type="rescue"/>
+            </div>
+            <div className="item">
+                <span>加油：oil</span><RayrIcon type="oil"/>
+            </div>
         </div>
     )
 }
