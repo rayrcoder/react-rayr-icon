@@ -60,6 +60,30 @@ function App() {
             <div className="item">
                 <span>车门：cardoor</span><RayrIcon type="cardoor"/>
             </div>
+            <div className="item">
+                <span>钥匙：key</span><RayrIcon type="key"/>
+            </div>
+            <div className="item">
+                <span>启动状态：fire</span><RayrIcon type="fire"/>
+            </div>
+            <div className="item">
+                <span>电瓶电压：voltage</span><RayrIcon type="voltage"/>
+            </div>
+            <div className="item">
+                <span>车辆电压：carvoltage</span><RayrIcon type="carvoltage"/>
+            </div>
+            <div className="item">
+                <span>电流：electric</span><RayrIcon type="electric"/>
+            </div>
+            <div className="item">
+                <span>座位：seat</span><RayrIcon type="seat"/>
+            </div>
+            <div className="item">
+                <span>动力类型：powertype</span><RayrIcon type="powertype"/>
+            </div>
+            <div className="item">
+                <span>发动机号：engineno</span><RayrIcon type="engineno"/>
+            </div>
         </div>
     )
 }
