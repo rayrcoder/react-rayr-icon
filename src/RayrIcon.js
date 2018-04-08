@@ -4,13 +4,17 @@ import classnames from 'classnames';
 
 class RayrIcon extends React.Component {
 
-    static propTypes = {};
+    static propTypes = {
+        type: PropTypes.string
+    };
 
-    static defaultProps = {};
+    static defaultProps = {
+        type: 'battery'
+    };
 
     render() {
         return (
-            <div className="rayr-icon">rayr-icon</div>
+            <i className={`rayr-icon rayr-icon-${this.props.type}`}></i>
         );
     }
 }

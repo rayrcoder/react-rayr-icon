@@ -7,9 +7,20 @@ import {RayrIcon} from 'react-rayr-icon';
 
 function App() {
     return (
-        <div>
+        <div className="demo-icon">
             <h1>组件初始化</h1>
-            <RayrIcon/>
+            <div>
+
+            </div>
+            <div className="item">
+                <span>电池：battery</span><RayrIcon type="battery"/>
+            </div>
+            <div className="item">
+                <span>cjh：cjh</span><RayrIcon type="cjh"/>
+            </div>
+            <div className="item">
+                <span>车灯：lamp</span><RayrIcon type="lamp"/>
+            </div>
         </div>
     )
 }

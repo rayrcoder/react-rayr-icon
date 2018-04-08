@@ -1,2 +1,35 @@
 .rayr-icon {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background-image: url("./icon.png");
+    background-repeat: no-repeat;
+    background-size: 128px 64px;
+    vertical-align: middle;
 }
+
+.rayr-icon-cjh {
+    background-position: -16px 0;
+}
+
+.rayr-icon-lamp {
+    background-position: -32px 0;
+}
+
+.rayr-icon-lock {
+    background-position: -48px 0;
+}
+
+.rayr-icon-lock {
+    background-position: -48px 0;
+}
+
+.rayr-icon-window {
+    background-position: -64px 0;
+}
+
+.rayr-icon-window {
+    background-position: -80px 0;
+}
+
+
