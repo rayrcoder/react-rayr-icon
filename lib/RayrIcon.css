@@ -1,0 +1,137 @@
+.rayr-icon {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url("./icon.png");
+  background-repeat: no-repeat;
+  background-size: 128px 64px;
+  vertical-align: middle;
+}
+
+.rayr-icon-battery {
+  background-position: 0 0;
+}
+
+.rayr-icon-cjh {
+  background-position: -16px 0;
+}
+
+.rayr-icon-lamp {
+  background-position: -32px 0;
+}
+
+.rayr-icon-lock {
+  background-position: -48px 0;
+}
+
+.rayr-icon-window {
+  background-position: -64px 0;
+}
+
+.rayr-icon-charge {
+  background-position: -80px 0;
+}
+
+.rayr-icon-course {
+  background-position: -96px 0;
+}
+
+.rayr-icon-scuttle {
+  background-position: -112px 0;
+}
+
+.rayr-icon-endurance {
+  background-position: 0 -16px;
+}
+
+.rayr-icon-handbrake {
+  background-position: -16px -16px;
+}
+
+.rayr-icon-link {
+  background-position: -32px -16px;
+}
+
+.rayr-icon-wifi {
+  background-position: -48px -16px;
+}
+
+.rayr-icon-gear {
+  background-position: -64px -16px;
+}
+
+.rayr-icon-worktype {
+  background-position: -80px -16px;
+}
+
+.rayr-icon-igniter {
+  background-position: -96px -16px;
+}
+
+.rayr-icon-cardoor {
+  background-position: -112px -16px;
+}
+
+.rayr-icon-key {
+  background-position: 0 -32px;
+}
+
+.rayr-icon-fire {
+  background-position: -16px -32px;
+}
+
+.rayr-icon-voltage {
+  background-position: -32px -32px;
+}
+
+.rayr-icon-carvoltage {
+  background-position: -48px -32px;
+}
+
+.rayr-icon-electric {
+  background-position: -64px -32px;
+}
+
+.rayr-icon-seat {
+  background-position: -80px -32px;
+}
+
+.rayr-icon-powertype {
+  background-position: -96px -32px;
+}
+
+.rayr-icon-engineno {
+  background-position: -112px -32px;
+}
+
+.rayr-icon-trunk {
+  background-position: 0 -48px;
+}
+
+.rayr-icon-register {
+  background-position: -16px -48px;
+}
+
+.rayr-icon-charging {
+  background-position: -32px -48px;
+}
+
+.rayr-icon-fix {
+  background-position: -48px -48px;
+}
+
+.rayr-icon-dispatch {
+  background-position: -64px -48px;
+}
+
+.rayr-icon-clean {
+  background-position: -80px -48px;
+}
+
+.rayr-icon-rescue {
+  background-position: -96px -48px;
+}
+
+.rayr-icon-oil {
+  background-position: -112px -48px;
+}
