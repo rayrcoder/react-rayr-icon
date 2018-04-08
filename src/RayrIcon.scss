@@ -8,6 +8,10 @@
     vertical-align: middle;
 }
 
+.rayr-icon-battery {
+    background-position: 0 0;
+}
+
 .rayr-icon-cjh {
     background-position: -16px 0;
 }
@@ -20,16 +24,59 @@
     background-position: -48px 0;
 }
 
-.rayr-icon-lock {
-    background-position: -48px 0;
-}
-
 .rayr-icon-window {
     background-position: -64px 0;
 }
 
-.rayr-icon-window {
+.rayr-icon-charge {
     background-position: -80px 0;
+}
+
+.rayr-icon-course {
+    background-position: -96px 0;
+}
+
+.rayr-icon-scuttle {
+    background-position: -112px 0;
+}
+
+.rayr-icon-endurance {
+    background-position: 0 -16px;
+}
+
+//手刹
+.rayr-icon-handbrake {
+    background-position: -16px -16px
+}
+
+//链接
+.rayr-icon-link {
+    background-position: -32px -16px;
+}
+
+//wifi
+.rayr-icon-wifi {
+    background-position: -48px -16px;
+}
+
+//档位
+.rayr-icon-gear {
+    background-position: -64px -16px;
+}
+
+//工作模式
+.rayr-icon-worktype {
+    background-position: -80px -16px;
+}
+
+//点火器
+.rayr-icon-igniter {
+    background-position: -96px -16px;
+}
+
+//cardoor
+.rayr-icon-cardoor {
+    background-position: -112px -16px;
 }
 
 

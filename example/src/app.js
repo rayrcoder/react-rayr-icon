@@ -16,10 +16,49 @@ function App() {
                 <span>电池：battery</span><RayrIcon type="battery"/>
             </div>
             <div className="item">
-                <span>cjh：cjh</span><RayrIcon type="cjh"/>
+                <span>车架：cjh</span><RayrIcon type="cjh"/>
             </div>
             <div className="item">
                 <span>车灯：lamp</span><RayrIcon type="lamp"/>
+            </div>
+            <div className="item">
+                <span>动力锁：lock</span><RayrIcon type="lock"/>
+            </div>
+            <div className="item">
+                <span>车窗：window</span><RayrIcon type="window"/>
+            </div>
+            <div className="item">
+                <span>充电：charge</span><RayrIcon type="charge"/>
+            </div>
+            <div className="item">
+                <span>里程：course</span><RayrIcon type="course"/>
+            </div>
+            <div className="item">
+                <span>天窗：scuttle</span><RayrIcon type="scuttle"/>
+            </div>
+            <div className="item">
+                <span>续航：endurance</span><RayrIcon type="endurance"/>
+            </div>
+            <div className="item">
+                <span>手刹：handbrake</span><RayrIcon type="handbrake"/>
+            </div>
+            <div className="item">
+                <span>链接状态：link</span><RayrIcon type="link"/>
+            </div>
+            <div className="item">
+                <span>信号：wifi</span><RayrIcon type="wifi"/>
+            </div>
+            <div className="item">
+                <span>档位：gear</span><RayrIcon type="gear"/>
+            </div>
+            <div className="item">
+                <span>工作模式：worktype</span><RayrIcon type="worktype"/>
+            </div>
+            <div className="item">
+                <span>点火器：igniter</span><RayrIcon type="igniter"/>
+            </div>
+            <div className="item">
+                <span>车门：cardoor</span><RayrIcon type="cardoor"/>
             </div>
         </div>
     )
