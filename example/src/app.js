@@ -108,6 +108,12 @@ function App() {
             <div className="item">
                 <span>加油：oil</span><RayrIcon type="oil"/>
             </div>
+            <div className="item">
+                <span>模式：model</span><RayrIcon type="model"/>
+            </div>
+            <div className="item">
+                <span>编号：number</span><RayrIcon type="number"/>
+            </div>
         </div>
     )
 }
