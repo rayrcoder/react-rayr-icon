@@ -16,7 +16,7 @@ function App() {
                 <span>电池：battery</span><RayrIcon type="battery"/>
             </div>
             <div className="item">
-                <span>车架：cjh</span><RayrIcon type="cjh"/>
+                <span>车架：cjh</span><RayrIcon type="cjh" model="disabled"/>
             </div>
             <div className="item">
                 <span>车灯：lamp</span><RayrIcon type="lamp"/>
