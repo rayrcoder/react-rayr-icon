@@ -4,7 +4,7 @@
     height: 16px;
     background-image: url("./icon.png");
     background-repeat: no-repeat;
-    background-size: 128px 64px;
+    background-size: 320px 64px;
     vertical-align: middle;
 }
 
@@ -158,5 +158,15 @@
 //加油
 .rayr-icon-oil {
     background-position: -112px -48px;
+}
+
+//模式
+.rayr-icon-model {
+    background-position: -128px 0;
+}
+
+//编号
+.rayr-icon-number {
+    background-position: -144px 0;
 }
 
