@@ -4,7 +4,7 @@
   height: 16px;
   background-image: url("./icon.png");
   background-repeat: no-repeat;
-  background-size: 128px 64px;
+  background-size: 320px 64px;
   vertical-align: middle;
 }
 
@@ -134,4 +134,12 @@
 
 .rayr-icon-oil {
   background-position: -112px -48px;
+}
+
+.rayr-icon-model {
+  background-position: -128px 0;
+}
+
+.rayr-icon-number {
+  background-position: -144px 0;
 }
