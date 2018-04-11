@@ -15,8 +15,11 @@ class RayrIcon extends React.Component {
     };
 
     render() {
+
+        let _cls = `rayr-icon-${this.props.model || 'default'} rayr-icon-${this.props.type}`;
+
         return (
-            <i ref="rayrIcon" className={`rayr-icon rayr-icon-${this.props.model} rayr-icon-${this.props.type}`}></i>
+            <i ref="rayrIcon" className={`rayr-icon ${_cls}`}></i>
         );
     }
 }
